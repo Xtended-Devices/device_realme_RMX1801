@@ -432,7 +432,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
     hostapd \
-    libqsap_sdk \
     libwifi-hal-qcom \
     libwpa_client \
     WifiOverlay \
