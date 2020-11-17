@@ -455,3 +455,6 @@ PRODUCT_BOARD_PLATFORM := sdm660
 # Signapk
 PRODUCT_HOST_PACKAGES += \
     signapk
+
+# Blur
+TARGET_USES_BLUR := true
