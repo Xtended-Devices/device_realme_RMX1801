@@ -29,4 +29,14 @@
 
     <!-- FPSInfoService Fps file path -->
        <string name="config_fpsInfoSysNode" translatable="false">/sys/devices/virtual/graphics/fb0/measured_fps</string>
+
+    <!-- The number of columns in the QuickSettings -->
+    <integer name="quick_settings_num_columns">5</integer>
+
+    <!-- The number of rows in the QuickSettings -->
+    <integer name="quick_settings_max_rows">2</integer>
+
+    <!-- QS rows and columns in landscape -->
+    <string name="quick_settings_max_rows_landscape">2</string>
+    <string name="quick_settings_num_columns_landscape">6</string>
 </resources>
